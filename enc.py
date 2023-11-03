@@ -1,5 +1,3 @@
-#!/usr/bin/env sage
-
 from sage.all import *
 import struct
 import re
