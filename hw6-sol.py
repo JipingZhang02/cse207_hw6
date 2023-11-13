@@ -98,4 +98,4 @@ if __name__=="__main__":
 
     a,b = have_gcd_lines_i[:2]
     n_a,n_b = int(lines[a],16),int(lines[b],16)
-    print(f"{n_a},{n_b}")
+    print(f"{n_a},{n_b}",end="")
